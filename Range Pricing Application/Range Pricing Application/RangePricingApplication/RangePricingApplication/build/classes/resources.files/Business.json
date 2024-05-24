@@ -1,0 +1,334 @@
+{
+    "name": "Xerox",
+    "persondirectory": {
+        "personlist": [
+            {
+                "id": "Xerox sales 1"
+            },
+            {
+                "id": "Xerox sales 2"
+            },
+            {
+                "id": "Xerox marketing"
+            },
+            {
+                "id": "Xerox admin"
+            },
+            {
+                "id": "Dell"
+            },
+            {
+                "id": "Microsoft"
+            },
+            {
+                "id": "Google"
+            },
+            {
+                "id": "JP Morgan"
+            },
+            {
+                "id": "State Street"
+            }
+        ]
+    },
+    "useraccountdirectory": {
+        "useraccountlist": [
+            {
+                "username": "Sales1",
+                "password": "sales1"
+            },
+            {
+                "username": "Sales2",
+                "password": "sales2"
+            },
+            {
+                "username": "Marketing",
+                "password": "marketing"
+            },
+            {
+                "username": "Admin",
+                "password": "admin"
+            }
+        ]
+    },
+    "suppliers": {
+        "suppliers": [
+            {
+                "name": "Lenovo",
+                "productCatalog": {
+                    "products": [
+                        {
+                            "name": "Scanner 3 1",
+                            "floorPrice": 2000,
+                            "ceilingPrice": 16500,
+                            "targetPrice": 10000           
+                        },
+                        {
+                            "name": "Scanner 4",
+                            "floorPrice": 10000,
+                            "ceilingPrice": 25000,
+                            "targetPrice": 16500           
+                        },
+                        {
+                            "name": "Printer 2",
+                            "floorPrice": 22000,
+                            "ceilingPrice": 40000,
+                            "targetPrice": 36500           
+                        },
+                        {
+                            "name": "Photocopier 2",
+                            "floorPrice": 30000,
+                            "ceilingPrice": 70000,
+                            "targetPrice": 50000           
+                        },
+                        {
+                            "name": "Scanner 5",
+                            "floorPrice": 19000,
+                            "ceilingPrice": 36500,
+                            "targetPrice": 25000           
+                        },
+                        {
+                            "name": "Scanner 6",
+                            "floorPrice": 90000,
+                            "ceilingPrice": 125000,
+                            "targetPrice": 105000           
+                        },
+                        {
+                            "name": "Printer 3",
+                            "floorPrice": 22000,
+                            "ceilingPrice": 60000,
+                            "targetPrice": 36500           
+                        },
+                        {
+                            "name": "Photocopier 3",
+                            "floorPrice": 30000,
+                            "ceilingPrice": 70000,
+                            "targetPrice": 50000           
+                        }
+
+                    ]
+                }
+            },
+            {
+                "name": "Epson",
+                "productCatalog": {
+                    "products": [
+                        {
+                            "name": "Scanner 13 1",
+                            "floorPrice": 12000,
+                            "ceilingPrice": 26000,
+                            "targetPrice": 18500           
+                        },
+                        {
+                            "name": "Scanner 14",
+                            "floorPrice": 90000,
+                            "ceilingPrice": 165000,
+                            "targetPrice": 125000           
+                        },
+                        {
+                            "name": "Color Printer 112",
+                            "floorPrice": 422000,
+                            "ceilingPrice": 540000,
+                            "targetPrice": 495000           
+                        },
+                        {
+                            "name": "Photocopier 922",
+                            "floorPrice": 430000,
+                            "ceilingPrice": 890000,
+                            "targetPrice": 550000           
+                        },
+                        {
+                            "name": "Low toner Scanner  102",
+                            "floorPrice": 195000,
+                            "ceilingPrice": 500100,
+                            "targetPrice": 365102           
+                        },
+                        {
+                            "name": "Speedy color Scanner 611",
+                            "floorPrice": 900000,
+                            "ceilingPrice": 1250000,
+                            "targetPrice": 1650000           
+                        },
+                        {
+                            "name": "Premier Printer 300",
+                            "floorPrice": 322000,
+                            "ceilingPrice": 470000,
+                            "targetPrice": 736500           
+                        },
+                        {
+                            "name": "Color Photocopier 500",
+                            "floorPrice": 350000,
+                            "ceilingPrice": 580000,
+                            "targetPrice": 780000           
+                        }
+
+                    ]
+                }
+            }
+        ]
+    },
+    "masterorderlist": {
+        "orderitems": [
+            {
+                "product": {
+                    "name": "Scanner 3 1",
+                    "floorPrice": 2000,
+                    "ceilingPrice": 16500,
+                    "targetPrice": 10000           
+                },
+                "actualPrice": 18000,
+                "quantity": 1
+            },
+            {
+                "product": {
+                    "name": "Scanner 4",
+                    "floorPrice": 10000,
+                    "ceilingPrice": 25000,
+                    "targetPrice": 16500           
+                },
+                "actualPrice": 19500,
+                "quantity": 4
+            },
+            {
+                "product": {
+                    "name": "Printer 2",
+                    "floorPrice": 22000,
+                    "ceilingPrice": 40000,
+                    "targetPrice": 36500           
+                },
+                "actualPrice": 36500,
+                "quantity": 10
+            },
+            {
+                "product": {
+                    "name": "Photocopier 2",
+                    "floorPrice": 30000,
+                    "ceilingPrice": 70000,
+                    "targetPrice": 50000           
+                },
+                "actualPrice": 50000,
+                "quantity": 1
+            },
+            {
+                "product": {
+                    "name": "Scanner 5",
+                    "floorPrice": 19000,
+                    "ceilingPrice": 36500,
+                    "targetPrice": 25000           
+                },
+                "actualPrice": 25000,
+                "quantity": 3
+            },
+            {
+                "product": {
+                    "name": "Scanner 6",
+                    "floorPrice": 90000,
+                    "ceilingPrice": 125000,
+                    "targetPrice": 105000           
+                },
+                "actualPrice": 105000,
+                "quantity": 2
+            },
+            {
+                "product": {
+                    "name": "Printer 3",
+                    "floorPrice": 22000,
+                    "ceilingPrice": 60000,
+                    "targetPrice": 36500           
+                },
+                "actualPrice": 36500,
+                "quantity": 3
+            },
+            {
+                "product": {
+                    "name": "Photocopier 3",
+                    "floorPrice": 30000,
+                    "ceilingPrice": 70000,
+                    "targetPrice": 50000           
+                },
+                "actualPrice": 50000,
+                "quantity": 2
+            },
+            {
+                "product": {
+                    "name": "Scanner 3 1",
+                    "floorPrice": 2000,
+                    "ceilingPrice": 16500,
+                    "targetPrice": 10000           
+                },
+                "actualPrice": 17000,
+                "quantity": 1
+            },
+            {
+                "product": {
+                    "name": "Scanner 4",
+                    "floorPrice": 10000,
+                    "ceilingPrice": 25000,
+                    "targetPrice": 16500           
+                },
+                "actualPrice": 9500,
+                "quantity": 4
+            },
+            {
+                "product": {
+                    "name": "Printer 2",
+                    "floorPrice": 22000,
+                    "ceilingPrice": 40000,
+                    "targetPrice": 36500           
+                },
+                "actualPrice": 29500,
+                "quantity": 10
+            },
+            {
+                "product": {
+                    "name": "Photocopier 2",
+                    "floorPrice": 30000,
+                    "ceilingPrice": 70000,
+                    "targetPrice": 50000           
+                },
+                "actualPrice": 30000,
+                "quantity": 1
+            },
+            {
+                "product": {
+                    "name": "Scanner 5",
+                    "floorPrice": 19000,
+                    "ceilingPrice": 36500,
+                    "targetPrice": 25000           
+                },
+                "actualPrice": 2000,
+                "quantity": 3
+            },
+            {
+                "product": {
+                    "name": "Scanner 6",
+                    "floorPrice": 90000,
+                    "ceilingPrice": 125000,
+                    "targetPrice": 105000           
+                },
+                "actualPrice": 95000,
+                "quantity": 2
+            },
+            {
+                "product": {
+                    "name": "Printer 3",
+                    "floorPrice": 22000,
+                    "ceilingPrice": 60000,
+                    "targetPrice": 36500           
+                },
+                "actualPrice": 26500,
+                "quantity": 3
+            },
+            {
+                "product": {
+                    "name": "Photocopier 3",
+                    "floorPrice": 30000,
+                    "ceilingPrice": 70000,
+                    "targetPrice": 50000           
+                },
+                "actualPrice": 40000,
+                "quantity": 2
+            }
+        ]
+    }
+}

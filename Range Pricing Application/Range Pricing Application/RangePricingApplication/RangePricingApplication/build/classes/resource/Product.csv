@@ -1,0 +1,17 @@
+Supplier,Product,FloorPrice,CeilingPrice,TargetPrice
+HP,Scanner 13 B, 12000, 26000, 18500
+HP,Scanner 14 CT,9000, 16500, 12500
+HP,Color Printer 112TR,42200,54000,50000
+HP,Photocopier 922E3,46000, 98000, 65000
+HP,Low toner Scanner  10WQ,25000, 69000, 39500
+HP,Speedy color Scanner 87RT,90000, 12500, 16000
+HP,Premier Printer 3B5R,33000, 57000, 48000
+HP,Color Photocopier 7UY,35000, 58000, 38000
+Zylo,Scanner 13 B, 12000, 26000, 18500
+Zylo,Scanner 14 CT,9000, 16500, 12500
+Zylo,Color Printer 112TR,42200,54000,50000
+Zylo,Photocopier 922E3,46000, 98000, 65000
+Zylo,Low toner Scanner  10WQ,25000, 69000, 39500
+Zylo,Speedy color Scanner 87RT,90000, 12500, 16000
+Zylo,Premier Printer 3B5R,33000, 57000, 48000
+Zylo,Color Photocopier 7UY,35000, 58000, 38000
